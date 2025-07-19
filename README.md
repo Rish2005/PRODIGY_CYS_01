@@ -19,10 +19,3 @@ This is a simple and interactive Caesar Cipher application built using Python an
 ### 💻 Requirements
 - Python 3.x (no extra packages needed)
 - Works on Windows/Linux/Mac
-
-### 🏃 Steps to Run
-
-1. Clone or download the project:
-   ```bash
-   git clone https://github.com/your-username/Caesar-Cipher-GUI-Tool.git
-   cd Caesar-Cipher-GUI-Tool
